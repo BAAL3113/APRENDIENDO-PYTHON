@@ -11,4 +11,4 @@ def fibonacci(n):
 
 # Ejemplo de uso:
 cantidad = int(input("¿Cuántos números de Fibonacci quieres ver? "))  # Solicita al usuario la cantidad de números
-print(fibonacci(cantidad))  # Imprime la secuencia
+print(fibonacci(cantidad))  # Imprime la secuencia generada
