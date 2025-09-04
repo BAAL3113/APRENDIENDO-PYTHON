@@ -128,6 +128,4 @@ print("Tipo de variable 'x':", type(x))  # Imprime el tipo de la variable x
 # help(print)  # Descomenta esta línea para ver la ayuda de la función print en la consola
 
 if __name__ == "__main__":
-    saludar("Ejemplo")
-    print(frutas)
-    print(persona)
+    saludar("Ejemplo")  # Llama a la función saludar si se ejecuta este archivo directamente
